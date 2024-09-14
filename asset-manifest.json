@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-calculator-ts-example/static/css/main.93159a13.css",
+    "main.css": "/react-calculator-ts-example/static/css/main.c26f5a1a.css",
     "main.js": "/react-calculator-ts-example/static/js/main.94e9e0ce.js",
     "index.html": "/react-calculator-ts-example/index.html",
-    "main.93159a13.css.map": "/react-calculator-ts-example/static/css/main.93159a13.css.map",
+    "main.c26f5a1a.css.map": "/react-calculator-ts-example/static/css/main.c26f5a1a.css.map",
     "main.94e9e0ce.js.map": "/react-calculator-ts-example/static/js/main.94e9e0ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.93159a13.css",
+    "static/css/main.c26f5a1a.css",
     "static/js/main.94e9e0ce.js"
   ]
 }
