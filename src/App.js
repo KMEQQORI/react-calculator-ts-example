@@ -10,17 +10,17 @@ function App() {
 			</div>
 			<div className="example">
 				<h1 className="header">Scientific calculator</h1>
-				<ReactCalculator type={'scientific'} />
+				<ReactCalculator type={'SCIENTIFIC'} />
 			</div>
 			<div className="example">
 				<h1 className="header">Customizable colors</h1>
 				<ReactCalculator
-					type={'scientific'}
-					numberButtonColor={'#624E88'}
-					operationButtonColor={'#FADFA1'}
-					equalButtonColor={'#CB80AB'}
-					clearButtonColor={'#8967B3'}
-					scientificButtonColor={'#C96868'}
+					type={'SCIENTIFIC'}
+					numberButtonColor={'#557C56'}
+					operationButtonColor={'#3C3D37'}
+					equalButtonColor={'#A04747'}
+					clearButtonColor={'#FF885B'}
+					scientificButtonColor={'#697565'}
 				/>
 			</div>
 		</div>
